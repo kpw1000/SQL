@@ -9,6 +9,7 @@ CREATE VIEW vw_gpg_sic_codes AS
 			1 AS "counter"
 			, x.gpgkey
 			, x.employerid
+			--* In the Office for National Statistics, all SIC codes are five digits
 			, RIGHT( '00000' || REPLACE( x.siccode_array[1], ',', '' ), 5 ) AS "siccode"
 			, ARRAY_LENGTH( x.siccode_array, 1 ) AS "siccode_count"
 		FROM (
@@ -39,6 +40,7 @@ CREATE VIEW vw_gpg_sic_codes AS
 			z.counter + 1 AS "counter"
 			, y.gpgkey
 			, y.employerid
+			--* In the Office for National Statistics, all SIC codes are five digits
 			, RIGHT( '00000' || REPLACE( y.siccode_array[z.counter + 1], ',', '' ), 5 ) AS "siccode"
 			, ARRAY_LENGTH( y.siccode_array, 1 ) AS "siccode_count"
 		FROM (
