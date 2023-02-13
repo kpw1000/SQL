@@ -25,3 +25,6 @@ CREATE TABLES for SIC.sql
 
 This view (SQL) extracts SIC codes from the gender_pay_gap table, permitting proper joins to the SIC tables.
 CREATE VIEW vw_gpg_sic_codes.sql
+
+A simple lookup table, seven records, allowing sorting of employers by employersize:
+CREATE TABLE for employersizes.sql
