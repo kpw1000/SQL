@@ -20,12 +20,12 @@ CREATE TABLE gender_pay_gap(
 	GPGKey integer NOT NULL 
 		DEFAULT nextval('_pk_gender_pay_gap_gpg_seq'::regclass)
 
-	,EmployerName varchar( 256 ) 
-	,EmployerId varchar( 32 )
-	,Address varchar( 256 ) 
-	,PostCode varchar( 128 ) 
-	,CompanyNumber varchar( 32 ) 
-	,SicCodes varchar( 256 )
+	,EmployerName varchar
+	,EmployerId varchar
+	,Address varchar 
+	,PostCode varchar 
+	,CompanyNumber varchar 
+	,SicCodes varchar
 
 	--* Keep the next set of fields as varchar for the import; change empty values to NULLs
 	--* via UPDATE after import; ALTER TABLE changing to numeric.
@@ -45,10 +45,10 @@ CREATE TABLE gender_pay_gap(
 	,FemaleTopQuartile varchar
 
 	--* This is a URL
-	,CompanyLinkToGPGInfo varchar( 512 ) 
-	,ResponsiblePerson varchar( 256 ) 
-	,EmployerSize varchar( 64 ) 
-	,CurrentName varchar( 256 ) 
+	,CompanyLinkToGPGInfo varchar 
+	,ResponsiblePerson varchar 
+	,EmployerSize varchar 
+	,CurrentName varchar 
 	,SubmittedAfterTheDeadline bool 
 
 	--* While all of the UK is within one timezone, I'm unsure
