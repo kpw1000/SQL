@@ -9,10 +9,10 @@
 --* ************************************************************************************************
 CREATE TABLE public.SICCodes
 (
-	SICCode varchar(16) NOT NULL
-	, SICDescription varchar(256) NOT NULL
-	, Level varchar(32)
-	, SICSection varchar(16) NOT NULL
+	SICCode varchar NOT NULL
+	, SICDescription varchar NOT NULL
+	, Level varchar
+	, SICSection varchar NOT NULL
 	, CONSTRAINT _pk_siccodes PRIMARY KEY ( SICCode )
 )
 TABLESPACE pg_default
@@ -36,8 +36,8 @@ CREATE INDEX idx_SICCodes_SICSection
 --* ************************************************************************************************
 CREATE TABLE public.SICSections
 (
-	SICSection varchar(16) NOT NULL
-	, SectionDescription varchar(256) NOT NULL
+	SICSection varchar NOT NULL
+	, SectionDescription varchar NOT NULL
 	, CONSTRAINT _pk_SICSections PRIMARY KEY ( SICSection )
 )
 TABLESPACE pg_default
@@ -48,10 +48,10 @@ TABLESPACE pg_default
 --* ************************************************************************************************
 CREATE TABLE public.SICDivisions
 (
-	SICDivision varchar(16) NOT NULL
-	, DivisionDescription varchar(256) NOT NULL
-	, SICCode varchar(16) NOT NULL
-	, SICSection varchar(16) NOT NULL
+	SICDivision varchar NOT NULL
+	, DivisionDescription varchar NOT NULL
+	, SICCode varchar NOT NULL
+	, SICSection varchar NOT NULL
 	, CONSTRAINT _pk_SICDivisions PRIMARY KEY ( SICDivision )
 )
 TABLESPACE pg_default
@@ -74,11 +74,11 @@ CREATE INDEX idx_SICDivisions_SICSection
 --* ************************************************************************************************
 CREATE TABLE public.SICGroups
 (
-	SICGroup varchar(16) NOT NULL
-	, GroupDescription varchar(256) NOT NULL
-	, SICCode varchar(16) NOT NULL
-	, SICSection varchar(16) NOT NULL
-	, SICDivision varchar(16) NOT NULL
+	SICGroup varchar NOT NULL
+	, GroupDescription varchar NOT NULL
+	, SICCode varchar NOT NULL
+	, SICSection varchar NOT NULL
+	, SICDivision varchar NOT NULL
 	, CONSTRAINT _pk_SICGroups PRIMARY KEY ( SICGroup )
 )
 TABLESPACE pg_default
@@ -107,12 +107,12 @@ CREATE INDEX idx_SICGroups_SICDivision
 --* ************************************************************************************************
 CREATE TABLE public.SICClasses
 (
-	SICClass varchar(16) NOT NULL
-	, ClassDescription varchar(256) NOT NULL
-	, SICCode varchar(16) NOT NULL
-	, SICSection varchar(16) NOT NULL
-	, SICDivision varchar(16) NOT NULL
-	, SICGroup varchar(16) NOT NULL
+	SICClass varchar NOT NULL
+	, ClassDescription varchar NOT NULL
+	, SICCode varchar NOT NULL
+	, SICSection varchar NOT NULL
+	, SICDivision varchar NOT NULL
+	, SICGroup varchar NOT NULL
 	, CONSTRAINT _pk_SICClasses PRIMARY KEY ( SICClass )
 )
 TABLESPACE pg_default
@@ -147,13 +147,13 @@ CREATE INDEX idx_SICClasses_SICGroup
 --* ************************************************************************************************
 CREATE TABLE public.SICSubclasses
 (
-	SICSubclass varchar(16) NOT NULL
-	, SubclassDescription varchar(256) NOT NULL
-	, SICCode varchar(16) NOT NULL
-	, SICSection varchar(16) NOT NULL
-	, SICDivision varchar(16) NOT NULL
-	, SICGroup varchar(16) NOT NULL
-	, SICClass varchar(16) NOT NULL
+	SICSubclass varchar NOT NULL
+	, SubclassDescription varchar NOT NULL
+	, SICCode varchar NOT NULL
+	, SICSection varchar NOT NULL
+	, SICDivision varchar NOT NULL
+	, SICGroup varchar NOT NULL
+	, SICClass varchar NOT NULL
 	, CONSTRAINT _pk_SICSubclasses PRIMARY KEY ( SICSubclass )
 )
 TABLESPACE pg_default
@@ -209,8 +209,8 @@ CREATE TABLE public.SICActivities
 		DEFAULT 
 		nextval('_pk_sicactivities_sicactivityid_seq'::regclass)
 
-	, SICCode varchar(16) NOT NULL
-	, SICActivity varchar(256) NOT NULL
+	, SICCode varchar NOT NULL
+	, SICActivity varchar NOT NULL
 	, CONSTRAINT _pk_sicactivities PRIMARY KEY ( SICActivityID )
 )
 TABLESPACE pg_default
