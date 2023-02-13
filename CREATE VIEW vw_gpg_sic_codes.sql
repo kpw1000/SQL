@@ -59,8 +59,8 @@ CREATE VIEW vw_gpg_sic_codes AS
 	)
 
 	SELECT 
-		counter
-		, gpgkey
+		gpgkey
+		, counter
 		, employerid
 		, siccode
 		, LEFT( siccode, 2 ) AS sicdivision
