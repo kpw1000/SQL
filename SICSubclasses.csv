@@ -1,0 +1,192 @@
+﻿SICSubclass,SubclassDescription,SICCode,SICSection,SICDivision,SICGroup,SICClass
+01.62/1,Farm animal boarding and care,01621,A,01,01.6,01.62
+01.62/9,Support activities for animal production (other than farm animal boarding and care) n.e.c.,01629,A,01,01.6,01.62
+05.10/1,Mining of hard coal from deep coal mines (underground mining),05101,B,05,05.1,05.10
+05.10/2,Mining of hard coal from open cast coal working (surface mining),05102,B,05,05.1,05.10
+10.51/1,Liquid milk and cream production,10511,C,10,10.5,10.51
+10.51/2,Butter and cheese production,10512,C,10,10.5,10.51
+10.51/9,"Manufacture of milk products (other than liquid milk and cream, butter, cheese) n.e.c.",10519,C,10,10.5,10.51
+10.61/1,Grain milling,10611,C,10,10.6,10.61
+10.61/2,Manufacture of breakfast cereals and cereals-based foods,10612,C,10,10.6,10.61
+10.82/1,"Manufacture of cocoa, and chocolate confectionery",10821,C,10,10.8,10.82
+10.82/2,Manufacture of sugar confectionery,10822,C,10,10.8,10.82
+10.83/1,Tea processing,10831,C,10,10.8,10.83
+10.83/2,Production of coffee and coffee substitutes,10832,C,10,10.8,10.83
+13.92/1,Manufacture of soft furnishings,13921,C,13,13.9,13.92
+13.92/2,"Manufacture of canvas goods, sacks etc.",13922,C,13,13.9,13.92
+13.92/3,Manufacture of household textiles (other than soft furnishings of 13.92/1),13923,C,13,13.9,13.92
+13.93/1,Manufacture of woven or tufted carpets and rugs,13931,C,13,13.9,13.93
+13.93/9,Manufacture of carpets and rugs (other than woven or tufted) n.e.c.,13939,C,13,13.9,13.93
+14.13/1,"Manufacture of men's outerwear, other than leather clothes and workwear",14131,C,14,14.1,14.13
+14.13/2,"Manufacture of women's outerwear, other than leather clothes and workwear",14132,C,14,14.1,14.13
+14.14/1,Manufacture of men's underwear,14141,C,14,14.1,14.14
+14.14/2,Manufacture of women's underwear,14142,C,14,14.1,14.14
+17.21/1,Manufacture of corrugated paper and paperboard; manufacture of sacks and bags of paper,17211,C,17,17.2,17.21
+17.21/9,Manufacture of paper and paperboard containers other than sacks and bags,17219,C,17,17.2,17.21
+18.12/1,Manufacture of printed labels,18121,C,18,18.1,18.12
+18.12/9,Printing (other than printing of newspapers and printing on labels and tags) n.e.c.,18129,C,18,18.1,18.12
+18.20/1,Reproduction of sound recording,18201,C,18,18.2,18.20
+18.20/2,Reproduction of video recording,18202,C,18,18.2,18.20
+18.20/3,Reproduction of computer media,18203,C,18,18.2,18.20
+19.20/1,Mineral oil refining,19201,C,19,19.2,19.20
+19.20/9,Other treatment of petroleum products (excluding mineral oil refining/petrochemicals manufacture),19209,C,19,19.2,19.20
+20.30/1,"Manufacture of paints, varnishes and similar coatings, mastics and sealants",20301,C,20,20.3,20.30
+20.30/2,Manufacture of printing ink,20302,C,20,20.3,20.30
+20.41/1,Manufacture of soap and detergents,20411,C,20,20.4,20.41
+20.41/2,Manufacture of cleaning and polishing preparations,20412,C,20,20.4,20.41
+26.30/1,Manufacture of telegraph and telephone apparatus and equipment,26301,C,26,26.3,26.30
+26.30/9,Manufacture of communication equipment (other than telegraph and telephone apparatus and equipment),26309,C,26,26.3,26.30
+26.51/1,"Manufacture of electronic instruments and appliances for measuring, testing, and navigation, except industrial process control equipment",26511,C,26,26.5,26.51
+26.51/2,Manufacture of electronic industrial process control equipment,26512,C,26,26.5,26.51
+26.51/3,"Manufacture of non-electronic instruments and appliances for measuring, testing and navigation, except industrial process control equipment",26513,C,26,26.5,26.51
+26.51/4,Manufacture of non-electronic industrial process control equipment,26514,C,26,26.5,26.51
+26.70/1,Manufacture of optical precision instruments,26701,C,26,26.7,26.70
+26.70/2,Manufacture of photographic and cinematographic equipment,26702,C,26,26.7,26.70
+28.13/1,Manufacture of pumps,28131,C,28,28.1,28.13
+28.13/2,Manufacture of compressors,28132,C,28,28.1,28.13
+28.30/1,Manufacture of agricultural tractors,28301,C,28,28.3,28.30
+28.30/2,Manufacture of agricultural and forestry machinery (other than agricultural tractors),28302,C,28,28.3,28.30
+28.92/1,Manufacture of machinery for mining,28921,C,28,28.9,28.92
+28.92/2,Manufacture of earthmoving equipment,28922,C,28,28.9,28.92
+28.92/3,Manufacture of equipment for concrete crushing and screening roadworks,28923,C,28,28.9,28.92
+29.20/1,Manufacture of bodies (coachwork) for motor vehicles (except caravans),29201,C,29,29.2,29.20
+29.20/2,Manufacture of trailers and semi-trailers,29202,C,29,29.2,29.20
+29.20/3,Manufacture of caravans,29203,C,29,29.2,29.20
+32.40/1,Manufacture of professional and arcade games and toys,32401,C,32,32.4,32.40
+32.40/9,Manufacture of games and toys (other than professional and arcade games and toys) n.e.c.,32409,C,32,32.4,32.40
+41.20/1,Construction of commercial buildings,41201,F,41,41.2,41.20
+41.20/2,Construction of domestic buildings,41202,F,41,41.2,41.20
+43.34/1,Painting,43341,F,43,43.3,43.34
+43.34/2,Glazing,43342,F,43,43.3,43.34
+43.99/1,Scaffold erection,43991,F,43,43.9,43.99
+43.99/9,Specialised construction activities (other than scaffold erection) n.e.c.,43999,F,43,43.9,43.99
+45.11/1,Sale of new cars and light motor vehicles,45111,G,45,45.1,45.11
+45.11/2,Sale of used cars and light motor vehicles,45112,G,45,45.1,45.11
+46.34/1,"Wholesale of fruit and vegetable juices, mineral waters and soft drinks",46341,G,46,46.3,46.34
+46.34/2,"Wholesale of wine, beer, spirits and other alcoholic beverages",46342,G,46,46.3,46.34
+46.43/1,"Wholesale of gramophone records, audio tapes, compact discs and video tapes and of the equipment on which these are played",46431,G,46,46.4,46.43
+46.43/9,"Wholesale of radio and television goods and of electrical household appliances (other than of gramophone records, audio tapes, compact discs and video tapes and the equipment on whi",46439,G,46,46.4,46.43
+46.49/1,Wholesale of musical instruments,46491,G,46,46.4,46.49
+46.49/9,Wholesale of household goods (other than musical instruments) n.e.c.,46499,G,46,46.4,46.49
+46.71/1,Wholesale of petroleum and petroleum products,46711,G,46,46.7,46.71
+46.71/9,Wholesale of fuels and related products (other than petroleum and petroleum products),46719,G,46,46.7,46.71
+47.42/1,Retail sale of mobile telephones in specialised stores,47421,G,47,47.4,47.42
+47.42/9,"Retail sale of telecommunications equipment (other than mobile telephones) n.e.c., in specialised stores",47429,G,47,47.4,47.42
+47.59/1,Retail sale of musical instruments and scores in specialised stores,47591,G,47,47.5,47.59
+47.59/9,"Retail sale of furniture, lighting equipment and other household articles (other than musical instruments) n.e.c., in specialised stores",47599,G,47,47.5,47.59
+47.72/1,Retail sale of footwear in specialised stores,47721,G,47,47.7,47.72
+47.72/2,Retail sale of leather goods in specialised stores,47722,G,47,47.7,47.72
+47.74/1,Retail sale of hearing aids in specialised stores,47741,G,47,47.7,47.74
+47.74/9,"Retail sale of medical and orthopaedic goods (other than hearing aids) n.e.c., in specialised stores",47749,G,47,47.7,47.74
+47.78/1,Retail sale in commercial art galleries,47781,G,47,47.7,47.78
+47.78/2,Retail sale by opticians,47782,G,47,47.7,47.78
+47.78/9,"Other retail sale of new goods in specialised stores (other than by opticians or commercial art galleries), n.e.c.",47789,G,47,47.7,47.78
+47.79/1,"Retail sale of antiques including antique books, in stores",47791,G,47,47.7,47.79
+47.79/9,Retail sale of second-hand goods (other than antiques and antique books) in stores,47799,G,47,47.7,47.79
+49.31/1,"Urban, suburban or metropolitan area passenger railway transportation by underground, metro and similar systems",49311,H,49,49.3,49.31
+49.31/9,"Urban, suburban or metropolitan area passenger land transport other than railway transportation by underground, metro and similar systems",49319,H,49,49.3,49.31
+51.10/1,Scheduled passenger air transport,51101,H,51,51.1,51.10
+51.10/2,Non-scheduled passenger air transport,51102,H,51,51.1,51.10
+52.10/1,Operation of warehousing and storage facilities for water transport activities of division ##50,52101,H,52,52.1,52.10
+52.10/2,Operation of warehousing and storage facilities for air transport activities of division ##51,52102,H,52,52.1,52.10
+52.10/3,Operation of warehousing and storage facilities for land transport activities of division ##49,52103,H,52,52.1,52.10
+52.21/1,Operation of rail freight terminals,52211,H,52,52.2,52.21
+52.21/2,Operation of rail passenger facilities at railway stations,52212,H,52,52.2,52.21
+52.21/3,Operation of bus and coach passenger facilities at bus and coach stations,52213,H,52,52.2,52.21
+52.21/9,"Other service activities incidental to land transportation, n.e.c. (not including operation of rail freight terminals, passenger facilities at railway stations or passenger faciliti",52219,H,52,52.2,52.21
+52.24/1,Cargo handling for water transport activities of division ##50,52241,H,52,52.2,52.24
+52.24/2,Cargo handling for air transport activities of division ##51,52242,H,52,52.2,52.24
+52.24/3,Cargo handling for land transport activities of division ##49,52243,H,52,52.2,52.24
+53.20/1,Licensed carriers,53201,H,53,53.2,53.20
+53.20/2,Unlicensed Carriers,53202,H,53,53.2,53.20
+55.20/1,Holiday centres and villages,55201,I,55,55.2,55.20
+55.20/2,Youth hostels,55202,I,55,55.2,55.20
+55.20/9,Other holiday and other short stay accommodation (not including holiday centres and villages or youth hostels) n.e.c.,55209,I,55,55.2,55.20
+56.10/1,Licensed restaurants,56101,I,56,56.1,56.10
+56.10/2,Unlicensed restaurants and cafes,56102,I,56,56.1,56.10
+56.10/3,Take away food shops and mobile food stands,56103,I,56,56.1,56.10
+56.30/1,Licensed clubs,56301,I,56,56.3,56.30
+56.30/2,Public houses and bars,56302,I,56,56.3,56.30
+58.14/1,Publishing of learned journals,58141,J,58,58.1,58.14
+58.14/2,"Publishing of consumer, business and professional journals and periodicals",58142,J,58,58.1,58.14
+59.11/1,Motion picture production activities,59111,J,59,59.1,59.11
+59.11/2,Video production activities,59112,J,59,59.1,59.11
+59.11/3,Television programme production activities,59113,J,59,59.1,59.11
+59.13/1,Motion picture distribution activities,59131,J,59,59.1,59.13
+59.13/2,Video distribution activities,59132,J,59,59.1,59.13
+59.13/3,Television programme distribution activities,59133,J,59,59.1,59.13
+62.01/1,Ready-made interactive leisure and entertainment software development,62011,J,62,62.0,62.01
+62.01/2,Business and domestic software development,62012,J,62,62.0,62.01
+64.19/1,Banks,64191,K,64,64.1,64.19
+64.19/2,Building societies,64192,K,64,64.1,64.19
+64.20/1,Activities of agricultural holding companies,64201,K,64,64.2,64.20
+64.20/2,Activities of production holding companies,64202,K,64,64.2,64.20
+64.20/3,Activities of construction holding companies,64203,K,64,64.2,64.20
+64.20/4,Activities of distribution holding companies,64204,K,64,64.2,64.20
+64.20/5,Activities of financial services holding companies,64205,K,64,64.2,64.20
+64.20/9,"Activities of other holding companies (not including agricultural, production, construction, distribution and financial services holding companies) n.e.c.",64209,K,64,64.2,64.20
+64.30/1,Activities of investment trusts,64301,K,64,64.3,64.30
+64.30/2,Activities of unit trusts,64302,K,64,64.3,64.30
+64.30/3,Activities of venture and development capital companies,64303,K,64,64.3,64.30
+64.30/4,Activities of open-ended investment companies,64304,K,64,64.3,64.30
+64.30/5,Activities of property unit trusts,64305,K,64,64.3,64.30
+64.30/6,Activities of real estate investment trusts,64306,K,64,64.3,64.30
+64.92/1,Credit granting by non-deposit taking finance houses and other specialist consumer credit grantors,64921,K,64,64.9,64.92
+64.92/2,Activities of mortgage finance companies,64922,K,64,64.9,64.92
+64.92/9,Other credit granting (not including credit granting by non-deposit taking finance houses and other specialist consumer credit grantors and activities of mortgage finance companies),64929,K,64,64.9,64.92
+64.99/1,Security dealing on own account,64991,K,64,64.9,64.99
+64.99/2,Factoring,64992,K,64,64.9,64.99
+64.99/9,"Other financial service activities, except insurance and pension funding, (not including security dealing on own account and factoring) n.e.c.",64999,K,64,64.9,64.99
+65.20/1,Life reinsurance,65201,K,65,65.2,65.20
+65.20/2,Non-life reinsurance,65202,K,65,65.2,65.20
+68.20/1,Renting and operating of Housing Association real estate,68201,L,68,68.2,68.20
+68.20/2,Letting and operating of conference and exhibition centres,68202,L,68,68.2,68.20
+68.20/9,Letting and operating of own or leased real estate (other than Housing Association real estate and conference and exhibition services) n.e.c.,68209,L,68,68.2,68.20
+69.10/1,Barristers at law,69101,M,69,69.1,69.10
+69.10/2,Solicitors,69102,M,69,69.1,69.10
+69.10/9,Activities of patent and copyright agents; other legal activities (other than those of barristers and solicitors) n.e.c.,69109,M,69,69.1,69.10
+69.20/1,"Accounting, and auditing activities",69201,M,69,69.2,69.20
+69.20/2,Bookkeeping activities,69202,M,69,69.2,69.20
+69.20/3,Tax consultancy,69203,M,69,69.2,69.20
+70.22/1,Financial management,70221,M,70,70.2,70.22
+70.22/9,Management consultancy activities (other than financial management),70229,M,70,70.2,70.22
+71.11/1,Architectural activities,71111,M,71,71.1,71.11
+71.11/2,Urban planning and landscape architectural activities,71112,M,71,71.1,71.11
+71.12/1,Engineering design activities for industrial process and production,71121,M,71,71.1,71.12
+71.12/2,Engineering related scientific and technical consulting activities,71122,M,71,71.1,71.12
+71.12/9,Other engineering activities (not including engineering design for industrial process and production or engineering related scientific and technical consulting activities),71129,M,71,71.1,71.12
+74.20/1,Portrait photographic activities,74201,M,74,74.2,74.20
+74.20/2,Other specialist photography (not including portrait photography),74202,M,74,74.2,74.20
+74.20/3,Film processing,74203,M,74,74.2,74.20
+74.20/9,Other photographic activities (not including portrait and other specialist photography and film processing) n.e.c.,74209,M,74,74.2,74.20
+74.90/1,Environmental consulting activities,74901,M,74,74.9,74.90
+74.90/2,Quantity surveying activities,74902,M,74,74.9,74.90
+74.90/9,"Other professional, scientific and technical activities (not including environmental consultancy or quantity surveying) n.e.c.",74909,M,74,74.9,74.90
+77.29/1,Renting and leasing of media entertainment equipment,77291,N,77,77.2,77.29
+77.29/9,Renting and leasing of other personal and household goods (other than media entertainment equipment),77299,N,77,77.2,77.29
+77.34/1,Renting and leasing of passenger water transport equipment,77341,N,77,77.3,77.34
+77.34/2,Renting and leasing of freight water transport equipment,77342,N,77,77.3,77.34
+77.35/1,Renting and leasing of passenger air transport equipment,77351,N,77,77.3,77.35
+77.35/2,Renting and leasing of freight air transport equipment,77352,N,77,77.3,77.35
+78.10/1,"Motion picture, television and other theatrical casting",78101,N,78,78.1,78.10
+78.10/9,"Activities of employment placement agencies (other than motion picture, television and other theatrical casting) n.e.c.",78109,N,78,78.1,78.10
+79.90/1,Activities of tourist guides,79901,N,79,79.9,79.90
+79.90/9,Other reservation service and related activities (not including activities of tourist guides),79909,N,79,79.9,79.90
+81.22/1,Window cleaning services,81221,N,81,81.2,81.22
+81.22/2,Specialised cleaning services,81222,N,81,81.2,81.22
+81.22/3,Furnace and chimney cleaning services,81223,N,81,81.2,81.22
+81.22/9,"Building and industrial cleaning activities (other than window cleaning, specialised cleaning and furnace and chimney cleaning services) n.e.c.",81229,N,81,81.2,81.22
+81.29/1,Disinfecting and extermination services,81291,N,81,81.2,81.29
+81.29/9,Cleaning services (other than disinfecting and extermination services) n.e.c.,81299,N,81,81.2,81.29
+82.30/1,Activities of exhibition and fairorganisers,82301,N,82,82.3,82.30
+82.30/2,Activities of conference organisers,82302,N,82,82.3,82.30
+82.91/1,Activities of collection agencies,82911,N,82,82.9,82.91
+82.91/2,Activities of credit bureaus,82912,N,82,82.9,82.91
+85.42/1,First-degree level higher education,85421,P,85,85.4,85.42
+85.42/2,Post-graduate level higher education,85422,P,85,85.4,85.42
+86.10/1,Hospital activities,86101,Q,86,86.1,86.10
+86.10/2,Medical nursing home activities,86102,Q,86,86.1,86.10
+91.01/1,Library activities,91011,R,91,91.0,91.01
+91.01/2,Archive activities,91012,R,91,91.0,91.01
+93.19/1,Activities of racehorse owners,93191,R,93,93.1,93.19
+93.19/9,Other sports activities (not including activities of racehorse owners) n.e.c.,93199,R,93,93.1,93.19

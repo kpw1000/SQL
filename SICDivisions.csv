@@ -1,0 +1,89 @@
+﻿SICDivision,DivisionDescription,SICCode,SICSection
+01,"Crop and animal production, hunting and related service activities",01000,A
+02,Forestry and logging,02000,A
+03,Fishing and aquaculture,03000,A
+05,Mining of coal and lignite,05000,B
+06,Extraction of crude petroleum and natural gas,06000,B
+07,Mining of metal ores,07000,B
+08,Other mining and quarrying,08000,B
+09,Mining support service activities,09000,B
+10,Manufacture of food products,10000,C
+11,Manufacture of beverages,11000,C
+12,Manufacture of tobacco products,12000,C
+13,Manufacture of textiles,13000,C
+14,Manufacture of wearing apparel,14000,C
+15,Manufacture of leather and related products,15000,C
+16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",16000,C
+17,Manufacture of paper and paper products,17000,C
+18,Printing and reproduction of recorded media,18000,C
+19,Manufacture of coke and refined petroleum products,19000,C
+20,Manufacture of chemicals and chemical products,20000,C
+21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,21000,C
+22,Manufacture of rubber and plastic products,22000,C
+23,Manufacture of other non-metallic mineral products,23000,C
+24,Manufacture of basic metals,24000,C
+25,"Manufacture of fabricated metal products, except machinery and equipment",25000,C
+26,"Manufacture of computer, electronic and optical products",26000,C
+27,Manufacture of electrical equipment,27000,C
+28,Manufacture of machinery and equipment n.e.c.,28000,C
+29,"Manufacture of motor vehicles, trailers and semi-trailers",29000,C
+30,Manufacture of other transport equipment,30000,C
+31,Manufacture of furniture,31000,C
+32,Other manufacturing,32000,C
+33,Repair and installation of machinery and equipment,33000,C
+35,"Electricity, gas, steam and air conditioning supply",35000,D
+36,"Water collection, treatment and supply",36000,E
+37,Sewerage,37000,E
+38,"Waste collection, treatment and disposal activities; materials recovery",38000,E
+39,Remediation activities and other waste management services,39000,E
+41,Construction of buildings,41000,F
+42,Civil engineering,42000,F
+43,Specialised construction activities,43000,F
+45,Wholesale and retail trade and repair of motor vehicles and motorcycles,45000,G
+46,"Wholesale trade, except of motor vehicles and motorcycles",46000,G
+47,"Retail trade, except of motor vehicles and motorcycles",47000,G
+49,Land transport and transport via pipelines,49000,H
+50,Water transport,50000,H
+51,Air transport,51000,H
+52,Warehousing and support activities for transportation,52000,H
+53,Postal and courier activities,53000,H
+55,Accommodation,55000,I
+56,Food and beverage service activities,56000,I
+58,Publishing activities,58000,J
+59,"Motion picture, video and television programme production, sound recording and music publishing activities",59000,J
+60,Programming and broadcasting activities,60000,J
+61,Telecommunications,61000,J
+62,"Computer programming, consultancy and related activities",62000,J
+63,Information service activities,63000,J
+64,"Financial service activities, except insurance and pension funding",64000,K
+65,"Insurance, reinsurance and pension funding, except compulsory social security",65000,K
+66,Activities auxiliary to financial services and insurance activities,66000,K
+68,Real estate activities,68000,L
+69,Legal and accounting activities,69000,M
+70,Activities of head offices; management consultancy activities,70000,M
+71,Architectural and engineering activities; technical testing and analysis,71000,M
+72,Scientific research and development,72000,M
+73,Advertising and market research,73000,M
+74,"Other professional, scientific and technical activities",74000,M
+75,Veterinary activities,75000,M
+77,Rental and leasing activities,77000,N
+78,Employment activities,78000,N
+79,"Travel agency, tour operator and other reservation service and related activities",79000,N
+80,Security and investigation activities,80000,N
+81,Services to buildings and landscape activities,81000,N
+82,"Office administrative, office support and other business support activities",82000,N
+84,Public administration and defence; compulsory social security,84000,O
+85,Education,85000,P
+86,Human health activities,86000,Q
+87,Residential care activities,87000,Q
+88,Social work activities without accommodation,88000,Q
+90,"Creative, arts and entertainment activities",90000,R
+91,"Libraries, archives, museums and other cultural activities",91000,R
+92,Gambling and betting activities,92000,R
+93,Sports activities and amusement and recreation activities,93000,R
+94,Activities of membership organisations,94000,S
+95,Repair of computers and personal and household goods,95000,S
+96,Other personal service activities,96000,S
+97,Activities of households as employers of domestic personnel,97000,T
+98,Undifferentiated goods- and services-producing activities of private households for own use,98000,T
+99,Activities of extraterritorial organisations and bodies,99000,U

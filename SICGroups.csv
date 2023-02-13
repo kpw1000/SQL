@@ -1,0 +1,273 @@
+﻿SICGroup,GroupDescription,SICCode,SICSection,SICDivision
+01.1,Growing of non-perennial crops,01100,A,01
+01.2,Growing of perennial crops,01200,A,01
+01.3,Plant propagation,01300,A,01
+01.4,Animal production,01400,A,01
+01.5,Mixed farming,01500,A,01
+01.6,Support activities to agriculture and post-harvest crop activities,01600,A,01
+01.7,"Hunting, trapping and related service activities",01700,A,01
+02.1,Silviculture and other forestry activities,02100,A,02
+02.2,Logging,02200,A,02
+02.3,Gathering of wild growing non-wood products,02300,A,02
+02.4,Support services to forestry,02400,A,02
+03.1,Fishing,03100,A,03
+03.2,Aquaculture,03200,A,03
+05.1,Mining of hard coal,05100,B,05
+05.2,Mining of lignite,05200,B,05
+06.1,Extraction of crude petroleum,06100,B,06
+06.2,Extraction of natural gas,06200,B,06
+07.1,Mining of iron ores,07100,B,07
+07.2,Mining of non-ferrous metal ores,07200,B,07
+08.1,"Quarrying of stone, sand and clay",08100,B,08
+08.9,Mining and quarrying n.e.c.,08900,B,08
+09.1,Support activities for petroleum and natural gas extraction,09100,B,09
+09.9,Support activities for other mining and quarrying,09900,B,09
+10.1,Processing and preserving of meat and production of meat products,10100,C,10
+10.2,"Processing and preserving of fish, crustaceans and molluscs",10200,C,10
+10.3,Processing and preserving of fruit and vegetables,10300,C,10
+10.4,Manufacture of vegetable and animal oils and fats,10400,C,10
+10.5,Manufacture of dairy products,10500,C,10
+10.6,"Manufacture of grain mill products, starches and starch products",10600,C,10
+10.7,Manufacture of bakery and farinaceous products,10700,C,10
+10.8,Manufacture of other food products,10800,C,10
+10.9,Manufacture of prepared animal feeds,10900,C,10
+11.0,Manufacture of beverages,11000,C,11
+12.0,Manufacture of tobacco products,12000,C,12
+13.1,Preparation and spinning of textile fibres,13100,C,13
+13.2,Weaving of textiles,13200,C,13
+13.3,Finishing of textiles,13300,C,13
+13.9,Manufacture of other textiles,13900,C,13
+14.1,"Manufacture of wearing apparel, except fur apparel",14100,C,14
+14.2,Manufacture of articles of fur,14200,C,14
+14.3,Manufacture of knitted and crocheted apparel,14300,C,14
+15.1,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery and harness; dressing and dyeing of fur",15100,C,15
+15.2,Manufacture of footwear,15200,C,15
+16.1,Sawmilling and planing of wood,16100,C,16
+16.2,"Manufacture of products of wood, cork, straw and plaiting materials",16200,C,16
+17.1,"Manufacture of pulp, paper and paperboard",17100,C,17
+17.2,Manufacture of articles of paper and paperboard,17200,C,17
+18.1,Printing and service activities related to printing,18100,C,18
+18.2,Reproduction of recorded media,18200,C,18
+19.1,Manufacture of coke oven products,19100,C,19
+19.2,Manufacture of refined petroleum products,19200,C,19
+20.1,"Manufacture of basic chemicals, fertilisers and nitrogen compounds, plastics and synthetic rubber in primary forms",20100,C,20
+20.2,Manufacture of pesticides and other agrochemical products,20200,C,20
+20.3,"Manufacture of paints, varnishes and similar coatings, printing ink and mastics",20300,C,20
+20.4,"Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations",20400,C,20
+20.5,Manufacture of other chemical products,20500,C,20
+20.6,Manufacture of man-made fibres,20600,C,20
+21.1,Manufacture of basic pharmaceutical products,21100,C,21
+21.2,Manufacture of pharmaceutical preparations,21200,C,21
+22.1,Manufacture of rubber products,22100,C,22
+22.2,Manufacture of plastics products,22200,C,22
+23.1,Manufacture of glass and glass products,23100,C,23
+23.2,Manufacture of refractory products,23200,C,23
+23.3,Manufacture of clay building materials,23300,C,23
+23.4,Manufacture of other porcelain and ceramic products,23400,C,23
+23.5,"Manufacture of cement, lime and plaster",23500,C,23
+23.6,"Manufacture of articles of concrete, cement and plaster",23600,C,23
+23.7,"Cutting, shaping and finishing of stone",23700,C,23
+23.9,Manufacture of abrasive products and non-metallic mineral products n.e.c.,23900,C,23
+24.1,Manufacture of basic iron and steel and of ferro-alloys,24100,C,24
+24.2,"Manufacture of tubes, pipes, hollow profiles and related fittings, of steel",24200,C,24
+24.3,Manufacture of other products of first processing of steel,24300,C,24
+24.4,Manufacture of basic precious and other non-ferrous metals,24400,C,24
+24.5,Casting of metals,24500,C,24
+25.1,Manufacture of structural metal products,25100,C,25
+25.2,"Manufacture of tanks, reservoirs and containers of metal",25200,C,25
+25.3,"Manufacture of steam generators, except central heating hot water boilers",25300,C,25
+25.4,Manufacture of weapons and ammunition,25400,C,25
+25.5,"Forging, pressing, stamping and roll-forming of metal; powder metallurgy",25500,C,25
+25.6,Treatment and coating of metals; machining,25600,C,25
+25.7,"Manufacture of cutlery, tools and general hardware",25700,C,25
+25.9,Manufacture of other fabricated metal products,25900,C,25
+26.1,Manufacture of electronic components and boards,26100,C,26
+26.2,Manufacture of computers and peripheral equipment,26200,C,26
+26.3,Manufacture of communication equipment,26300,C,26
+26.4,Manufacture of consumer electronics,26400,C,26
+26.5,"Manufacture of instruments and appliances for measuring, testing and navigation; watches and clocks",26500,C,26
+26.6,"Manufacture of irradiation, electromedical and electrotherapeutic equipment",26600,C,26
+26.7,Manufacture of optical instruments and photographic equipment,26700,C,26
+26.8,Manufacture of magnetic and optical media,26800,C,26
+27.1,"Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus",27100,C,27
+27.2,Manufacture of batteries and accumulators,27200,C,27
+27.3,Manufacture of wiring and wiring devices,27300,C,27
+27.4,Manufacture of electric lighting equipment,27400,C,27
+27.5,Manufacture of domestic appliances,27500,C,27
+27.9,Manufacture of other electrical equipment,27900,C,27
+28.1,Manufacture of general purpose machinery,28100,C,28
+28.2,Manufacture of other general-purpose machinery,28200,C,28
+28.3,Manufacture of agricultural and forestry machinery,28300,C,28
+28.4,Manufacture of metal forming machinery and machine tools,28400,C,28
+28.9,Manufacture of other special-purpose machinery,28900,C,28
+29.1,Manufacture of motor vehicles,29100,C,29
+29.2,Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers,29200,C,29
+29.3,Manufacture of parts and accessories for motor vehicles,29300,C,29
+30.1,Building of ships and boats,30100,C,30
+30.2,Manufacture of railway locomotives and rolling stock,30200,C,30
+30.3,Manufacture of air and spacecraft and related machinery,30300,C,30
+30.4,Manufacture of military fighting vehicles,30400,C,30
+30.9,Manufacture of transport equipment n.e.c.,30900,C,30
+31.0,Manufacture of furniture,31000,C,31
+32.1,"Manufacture of jewellery, bijouterie and related articles",32100,C,32
+32.2,Manufacture of musical instruments,32200,C,32
+32.3,Manufacture of sports goods,32300,C,32
+32.4,Manufacture of games and toys,32400,C,32
+32.5,Manufacture of medical and dental instruments and supplies,32500,C,32
+32.9,Manufacturing n.e.c,32900,C,32
+33.1,"Repair of fabricated metal products, machinery and equipment",33100,C,33
+33.2,Installation of industrial machinery and equipment,33200,C,33
+35.1,"Electric power generation, transmission and distribution",35100,D,35
+35.2,Manufacture of gas; distribution of gaseous fuels through mains,35200,D,35
+35.3,Steam and air conditioning supply,35300,D,35
+36.0,"Water collection, treatment and supply",36000,E,36
+37.0,Sewerage,37000,E,37
+38.1,Waste collection,38100,E,38
+38.2,Waste treatment and disposal,38200,E,38
+38.3,Materials recovery,38300,E,38
+39.0,Remediation activities and other waste management services,39000,E,39
+41.1,Development of building projects,41100,F,41
+41.2,Construction of residential and non-residential buildings,41200,F,41
+42.1,Construction of roads and railways,42100,F,42
+42.2,Construction of utility projects,42200,F,42
+42.9,Construction of other civil engineering projects,42900,F,42
+43.1,Demolition and site preparation,43100,F,43
+43.2,"Electrical, plumbing and other construction installation activities",43200,F,43
+43.3,Building completion and finishing,43300,F,43
+43.9,Other specialised construction activities,43900,F,43
+45.1,Sale of motor vehicles,45100,G,45
+45.2,Maintenance and repair of motor vehicles,45200,G,45
+45.3,Sale of motor vehicle parts and accessories,45300,G,45
+45.4,"Sale, maintenance and repair of motorcycles and related parts and accessories",45400,G,45
+46.1,Wholesale on a fee or contract basis,46100,G,46
+46.2,Wholesale of agricultural raw materials and live animals,46200,G,46
+46.3,"Wholesale of food, beverages and tobacco",46300,G,46
+46.4,Wholesale of household goods,46400,G,46
+46.5,Wholesale of information and communication equipment,46500,G,46
+46.6,"Wholesale of other machinery, equipment and supplies",46600,G,46
+46.7,Other specialised wholesale,46700,G,46
+46.9,Non-specialised wholesale trade,46900,G,46
+47.1,Retail sale in non-specialised stores,47100,G,47
+47.2,"Retail sale of food, beverages and tobacco in specialised stores",47200,G,47
+47.3,Retail sale of automotive fuel in specialised stores,47300,G,47
+47.4,Retail sale of information and communication equipment in specialised stores,47400,G,47
+47.5,Retail sale of other household equipment in specialised stores,47500,G,47
+47.6,Retail sale of cultural and recreation goods in specialised stores,47600,G,47
+47.7,Retail sale of other goods in specialised stores,47700,G,47
+47.8,Retail sale via stalls and markets,47800,G,47
+47.9,"Retail trade not in stores, stalls or markets",47900,G,47
+49.1,"Passenger rail transport, interurban",49100,H,49
+49.2,Freight rail transport,49200,H,49
+49.3,Other passenger land transport,49300,H,49
+49.4,Freight transport by road and removal services,49400,H,49
+49.5,Transport via pipeline,49500,H,49
+50.1,Sea and coastal passenger water transport,50100,H,50
+50.2,Sea and coastal freight water transport,50200,H,50
+50.3,Inland passenger water transport,50300,H,50
+50.4,Inland freight water transport,50400,H,50
+51.1,Passenger air transport,51100,H,51
+51.2,Freight air transport and space transport,51200,H,51
+52.1,Warehousing and storage,52100,H,52
+52.2,Support activities for transportation,52200,H,52
+53.1,Postal activities under universal service obligation,53100,H,53
+53.2,Other postal and courier activities,53200,H,53
+55.1,Hotels and similar accommodation,55100,I,55
+55.2,Holiday and other short-stay accommodation,55200,I,55
+55.3,"Camping grounds, recreational vehicle parks and trailer parks",55300,I,55
+55.9,Other accommodation,55900,I,55
+56.1,Restaurants and mobile food service activities,56100,I,56
+56.2,Event catering and other food service activities,56200,I,56
+56.3,Beverage serving activities,56300,I,56
+58.1,"Publishing of books, periodicals and other publishing activities",58100,J,58
+58.2,Software publishing,58200,J,58
+59.1,"Motion picture, video and television programme activities",59100,J,59
+59.2,Sound recording and music publishing activities,59200,J,59
+60.1,Radio broadcasting,60100,J,60
+60.2,Television programming and broadcasting activities,60200,J,60
+61.1,Wired telecommunications activities,61100,J,61
+61.2,Wireless telecommunications activities,61200,J,61
+61.3,Satellite telecommunications activities,61300,J,61
+61.9,Other telecommunications activities,61900,J,61
+62.0,"Computer programming, consultancy and related activities",62000,J,62
+63.1,"Data processing, hosting and related activities; web portals",63100,J,63
+63.9,Other information service activities,63900,J,63
+64.1,Monetary intermediation,64100,K,64
+64.2,Activities of holding companies,64200,K,64
+64.3,"Trusts, funds and similar financial entities",64300,K,64
+64.9,"Other financial service activities, except insurance and pension funding",64900,K,64
+65.1,Insurance,65100,K,65
+65.2,Reinsurance,65200,K,65
+65.3,Pension funding,65300,K,65
+66.1,"Activities auxiliary to financial services, except insurance and pension funding",66100,K,66
+66.2,Activities auxiliary to insurance and pension funding,66200,K,66
+66.3,Fund management activities,66300,K,66
+68.1,Buying and selling of own real estate,68100,L,68
+68.2,Renting and operating of own or leased real estate,68200,L,68
+68.3,Real estate activities on a fee or contract basis,68300,L,68
+69.1,Legal activities,69100,M,69
+69.2,"Accounting, bookkeeping and auditing activities; tax consultancy",69200,M,69
+70.1,Activities of head offices,70100,M,70
+70.2,Management consultancy activities,70200,M,70
+71.1,Architectural and engineering activities and related technical consultancy,71100,M,71
+71.2,Technical testing and analysis,71200,M,71
+72.1,Research and experimental development on natural sciences and engineering,72100,M,72
+72.2,Research and experimental development on social sciences and humanities,72200,M,72
+73.1,Advertising,73100,M,73
+73.2,Market research and public opinion polling,73200,M,73
+74.1,Specialised design activities,74100,M,74
+74.2,Photographic activities,74200,M,74
+74.3,Translation and interpretation activities,74300,M,74
+74.9,"Other professional, scientific and technical activities n.e.c.",74900,M,74
+75.0,Veterinary activities,75000,M,75
+77.1,Renting and leasing of motor vehicles,77100,N,77
+77.2,Renting and leasing of personal and household goods,77200,N,77
+77.3,"Renting and leasing of other machinery, equipment and tangible goods",77300,N,77
+77.4,"Leasing of intellectual property and similar products, except copyrighted works",77400,N,77
+78.1,Activities of employment placement agencies,78100,N,78
+78.2,Temporary employment agency activities,78200,N,78
+78.3,Other human resources provision,78300,N,78
+79.1,Travel agency and tour operator activities,79100,N,79
+79.9,Other reservation service and related activities,79900,N,79
+80.1,Private security activities,80100,N,80
+80.2,Security systems service activities,80200,N,80
+80.3,Investigation activities,80300,N,80
+81.1,Combined facilities support activities,81100,N,81
+81.2,Cleaning activities,81200,N,81
+81.3,Landscape service activities,81300,N,81
+82.1,Office administrative and support activities,82100,N,82
+82.2,Activities of call centres,82200,N,82
+82.3,Organisation of conventions and trade shows,82300,N,82
+82.9,Business support service activities n.e.c.,82900,N,82
+84.1,Administration of the State and the economic and social policy of the community,84100,O,84
+84.2,Provision of services to the community as a whole,84200,O,84
+84.3,Compulsory social security activities,84300,O,84
+85.1,Pre-primary education,85100,P,85
+85.2,Primary education,85200,P,85
+85.3,Secondary education,85300,P,85
+85.4,Higher education,85400,P,85
+85.5,Other education,85500,P,85
+85.6,Educational support activities,85600,P,85
+86.1,Hospital activities,86100,Q,86
+86.2,Medical and dental practice activities,86200,Q,86
+86.9,Other human health activities,86900,Q,86
+87.1,Residential nursing care activities,87100,Q,87
+87.2,"Residential care activities for learning disabilities, mental health and substance abuse",87200,Q,87
+87.3,Residential care activities for the elderly and disabled,87300,Q,87
+87.9,Other residential care activities,87900,Q,87
+88.1,Social work activities without accommodation for the elderly and disabled,88100,Q,88
+88.9,Other social work activities without accommodation,88900,Q,88
+90.0,"Creative, arts and entertainment activities",90000,R,90
+91.0,"Libraries, archives, museums and other cultural activities",91000,R,91
+92.0,Gambling and betting activities,92000,R,92
+93.1,Sports activities,93100,R,93
+93.2,Amusement and recreation activities,93200,R,93
+94.1,"Activities of business, employers and professional membership organisations",94100,S,94
+94.2,Activities of trade unions,94200,S,94
+94.9,Activities of other membership organisations,94900,S,94
+95.1,Repair of computers and communication equipment,95100,S,95
+95.2,Repair of personal and household goods,95200,S,95
+96.0,Other personal service activities,96000,S,96
+97.0,Activities of households as employers of domestic personnel,97000,T,97
+98.1,Undifferentiated goods-producing activities of private households for own use,98100,T,98
+98.2,Undifferentiated service-producing activities of private households for own use,98200,T,98
+99.0,Activities of extraterritorial organisations and bodies,99000,U,99
